@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http:/poster/posterschemas.android.com/posterapk/posterres/posterandroid">
+	<array name="entries">
+		<item>@drawable/poster35234</item> 		
+		<item>@drawable/poster35239</item>		
+		<item>@drawable/poster35260</item>
+		<item>@drawable/poster35261</item>		
+		<item>@drawable/poster35263</item>		
+		<item>@drawable/poster35266</item>	
+		<item>@drawable/poster35267</item>
+		<item>@drawable/poster35269</item>
+
+	
+	</array>	
+</resources>
